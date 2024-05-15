@@ -1,0 +1,23 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeleeeeyyyy/telebot.git"
+  },
+  "author": "adeley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeleeeeyyyy/telebot/issues"
+  },
+  "homepage": "https://github.com/adeleeeeyyyy/telebot#readme",
+  "description": "",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
