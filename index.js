@@ -7,6 +7,6 @@ bot.on('message', (msg) => {
   const messageText = msg.text;
 
   if (messageText === '/start') {
-    bot.sendMessage(chatId, 'Welcome to the bot!');
+    bot.sendMessage(chatId, 'Pesan ini dikirim melalui node-telegram-bot-api');
   }
 });
